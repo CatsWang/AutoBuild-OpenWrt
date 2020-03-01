@@ -5,15 +5,15 @@
 # Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
 
-name: Build_RT-ACR17_Personal-2020/03/01
+name: Build_RT-ACRH17_Personal-2020-03-01
 
 on: 
   release:
     types: [published]
 
   push:
-    branches: 
-      - master
+     branches: 
+       - master
 
   #schedule:
   #  - cron: 0 8 * * 5
