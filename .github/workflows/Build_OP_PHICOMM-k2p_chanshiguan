@@ -68,7 +68,7 @@ jobs:
         ./scripts/feeds update -a
         ./scripts/feeds install -a
         ./scripts/feeds install -a
-    - name: Configuration Customization - PHICOMM-k2p_chanshiguan
+    - name: Configuration Customization - Build_PHICOMM-k2p_chanshiguan
       env:
         CONFIG_FILE: 'PHICOMM-k2p_chanshiguan'
       run: |
