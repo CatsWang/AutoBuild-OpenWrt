@@ -69,7 +69,6 @@ jobs:
         ./scripts/feeds update -a
         ./scripts/feeds install -a
         ./scripts/feeds install -a
-
     #- name: Import external feeds
     #  working-directory: ./openwrt
     #  run: |
