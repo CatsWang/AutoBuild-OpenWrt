@@ -68,7 +68,7 @@ jobs:
         ./scripts/feeds update -a
         ./scripts/feeds install -a
         ./scripts/feeds install -a
-    - name: Configuration Customization - Build_Newifi_D2
+    - name: Configuration Customization - Build_RT-ACRH17_Personal
       env:
         CONFIG_FILE: 'RT-ACRH17_Personal.config'
       run: |
