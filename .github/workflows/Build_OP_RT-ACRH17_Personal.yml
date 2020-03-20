@@ -5,7 +5,7 @@
 # Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
 
-name: Build_RT-ACRH17_Personal-2020-03-04
+name: Build_RT-ACRH17_Personal
 
 on: 
   release:
